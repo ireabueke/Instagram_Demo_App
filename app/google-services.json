@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "955982962787",
+    "firebase_url": "https://play-3690d.firebaseio.com",
+    "project_id": "play-3690d",
+    "storage_bucket": "play-3690d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955982962787:android:db46409f738c818cc41856",
+        "android_client_info": {
+          "package_name": "com.example.instagramdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955982962787-evqd4gvngqr104m91rnib2pt3pk3jeba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIqH-Ok4ORrjARfwOcNTQtr7WLmzPq0eQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955982962787-evqd4gvngqr104m91rnib2pt3pk3jeba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
